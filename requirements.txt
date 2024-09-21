@@ -13,3 +13,6 @@ pydantic_settings
 httpx
 Crypto
 pycryptodome
+tenacity
+xmltodict
+starlette
