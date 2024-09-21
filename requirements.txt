@@ -16,3 +16,4 @@ pycryptodome
 tenacity
 xmltodict
 starlette
+cachetools
